@@ -49,6 +49,6 @@ This dashboard enables data-driven decision-making by providing a clear view of 
 
 ## 📷 Dashboard Preview
 
-![Excel Sales Dashboard]
-(Dashboard_Screenshot.png)
+![Dashboard Preview]
+(./Dashboard_Screenshot.png)
 
